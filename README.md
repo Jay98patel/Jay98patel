@@ -1,4 +1,4 @@
-# Frontend Web Developer Resume 👨‍💻
+# Frontend Web Developer 👨‍💻
 
 ## Summary
 
